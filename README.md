@@ -1,8 +1,8 @@
-# Global Black Money Transactions - Dashboard
+# Global Black Money Transactions (Jan 1, 2013 - Feb 21, 2014)
 
 ## Introduction
 
-Welcome to the Global Black Money Transactions Dashboard! This dashboard, built using Power BI Desktop, leverages an extensive dataset of black money transactions sourced from Kaggle. It covers transactions from January 1, 2013, to February 21, 2014, across various countries, providing crucial insights into money laundering patterns. 
+Welcome to the Global Black Money Transactions Analysis! This Analysis, built using Power BI Desktop, leverages an extensive dataset of black money transactions sourced from Kaggle. It covers transactions from January 1, 2013, to February 21, 2014, across various countries, providing crucial insights into money laundering patterns. 
 
 ## Data Source
 The dataset used for this analysis was originally sourced from Kaggle, but it is no longer available on the platform as of [January 2025]. 
@@ -11,7 +11,7 @@ To ensure reproducibility, the dataset has been included in this repository. You
 
 ## Visualizations
 
-The dashboard includes the following visualizations:
+The Analysis includes the following visualizations:
 
 -  Map Visualization: Displays the countries where transactions occurred, with bubble sizes representing transaction amounts (USD).
 -  Donut Chart: Shows the distribution of transactions by risk score, with the count of transactions as values.
@@ -27,7 +27,7 @@ The dashboard includes the following visualizations:
 
 ## Insights
 
-From the dashboard, the following key insights can be drawn:
+From the Analysis, the following key insights can be drawn:
 
 ### [1] Risk Scores Indicating Money Laundering Likelihood
 
