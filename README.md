@@ -11,7 +11,7 @@ To ensure reproducibility, the dataset has been included in this repository. You
 
 ## Visualizations
 
-The Analysis includes the following visualizations:
+This Analysis includes the following visualizations:
 
 -  Map Visualization: Displays the countries where transactions occurred, with bubble sizes representing transaction amounts (USD).
 -  Donut Chart: Shows the distribution of transactions by risk score, with the count of transactions as values.
@@ -20,7 +20,7 @@ The Analysis includes the following visualizations:
 -  Stacked Column Chart: Shows transaction types on the X-axis, transaction counts on the Y-axis, and a breakdown by whether they were reported by authorities.
 -  Line Chart: Illustrates the trend of transaction amounts over time, with transaction dates on the X-axis and amounts (USD) on the Y-axis.
 
-## Snapshot of Dashboard 
+## Snapshot of the Report 
 
 ![img1](https://github.com/user-attachments/assets/0ce35105-299d-4c8b-9b1a-41704747a346)
 
